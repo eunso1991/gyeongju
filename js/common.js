@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    
+    alert('이 페이지는 취업 지원을 위한 비상업적 포트폴리오 용도로 사용됨을 알려드립니다.');
 
     //preventDefaultAnchor();
     var winW = $(window).outerWidth();
